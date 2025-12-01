@@ -1,4 +1,4 @@
-# data_entry_agent — How to run
+# data_entry_agent
 This agent helps you fill web forms by parsing the information from the document uploaded by you.
 
 ## Prerequisites
@@ -34,6 +34,7 @@ Run this from the root folder containing data_entry_agent folder
 adk web --log_level DEBUG
 ```
 You can change the log_level to INFO if you do not wish to see the detailed logs.
+
 
 ## Where to look in this repo
 - Main agent: `data_entry_agent/agent.py`

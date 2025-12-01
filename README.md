@@ -5,7 +5,7 @@ This agent helps you fill web forms by parsing the information from the document
 - Python 3.11+ (project uses 3.11 in dev environment)
 - Node.js + npm (to run Playwright MCP server)
 - (Optional) Tesseract OCR binary if you will parse images/PDFs via OCR
-- Environment variables (set as needed):
+- Environment variables (set in .env):
   - `GOOGLE_API_KEY` — provide your GOOGLE_API_KEY in .env file
 
 ## Setup (recommended)
